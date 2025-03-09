@@ -78,3 +78,7 @@ The notebook provides visualizations of segmented outputs, including comparisons
 
 This project is licensed under the MIT License.
 
+---
+**Author:** Chirag N Vijay  
+
+
